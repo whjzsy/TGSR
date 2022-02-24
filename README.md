@@ -9,7 +9,7 @@ Installation
 --------------------------
 Please refer to [PySOT_INSTALL.md](https://github.com/STVIR/pysot/blob/master/INSTALL.md) and [PreciseRoIPooling_README.md](https://github.com/vacancy/PreciseRoIPooling) for installation.
 
-Due to PreciseRoIPooling, **PLEASE USE THE COMMAND TO DOWNLOADE THE CODE:** git clone https://github.com/TJUMMG/TGSR
+Due to PreciseRoIPooling, **PLEASE USE THE COMMAND TO DOWNLOADE THE CODE:** ```git clone https://github.com/TJUMMG/TGSR.git```
 
 Requirements
 --------------------------
